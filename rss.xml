@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sales Achievements]]></title>
+        <description><![CDATA[Sales Achievements]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Mar 2016 08:56:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What Sales Managers Should Know About Sales
+Training!</p>]]></description>
+            <link>undefinedwhat-sales-managers-should-know-about-sales-training/index.html</link>
+            <guid isPermaLink="false">84a34cc9-b423-44f2-ac85-ed3001ad6f18</guid>
+            <pubDate>Sun, 27 Mar 2016 08:56:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
