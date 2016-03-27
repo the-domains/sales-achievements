@@ -2,6 +2,7 @@ name: Sales Achievements
 favicon: null
 layout_spectrum: 0.1559162763878703
 typography_spectrum: 0.4078325158916414
+title: Sales Achievements
 cta:
   domain: null
   bucket: null
